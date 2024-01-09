@@ -10,6 +10,11 @@
       "StackName": "amplify-reactwebpwa-staging-123923",
       "StackId": "arn:aws:cloudformation:us-east-1:081283953628:stack/amplify-reactwebpwa-staging-123923/1e891800-aeec-11ee-9aee-121b60773fad",
       "AmplifyAppId": "d2hga4f4wijfv0"
+    },
+    "categories": {
+      "auth": {
+        "reactwebpwa": {}
+      }
     }
   }
 }
