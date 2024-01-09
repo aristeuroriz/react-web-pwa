@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactwebpwa-staging-123923-authRole",
+      "UnauthRoleArn": "arn:aws:iam::081283953628:role/amplify-reactwebpwa-staging-123923-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::081283953628:role/amplify-reactwebpwa-staging-123923-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactwebpwa-staging-123923-deployment",
+      "UnauthRoleName": "amplify-reactwebpwa-staging-123923-unauthRole",
+      "StackName": "amplify-reactwebpwa-staging-123923",
+      "StackId": "arn:aws:cloudformation:us-east-1:081283953628:stack/amplify-reactwebpwa-staging-123923/1e891800-aeec-11ee-9aee-121b60773fad",
+      "AmplifyAppId": "d2hga4f4wijfv0"
+    }
+  }
+}
